@@ -30,3 +30,5 @@ Files DenseDepth_bs8.ipynb, DenseDepth_bs6.ipynb and DenseDepth_bs4.ipynb has se
 - Tensorflow 2.2
 - RAM of minimum 4 to 8GB
 
+#Results of Depth Estimation
+![Estimated depth at batch size=6](output_bs6.png)
