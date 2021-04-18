@@ -32,4 +32,4 @@ Files DenseDepth_bs8.ipynb, DenseDepth_bs6.ipynb and DenseDepth_bs4.ipynb has se
 
 # Results of Depth Estimation
 ![Estimated depth at batch size=6](output_bs6.png)
-![Estimated depth at batch site=8](Depth_Estimation(copy).png)
+![Estimated depth at batch site=8](Depth_Estimation (copy).png)
